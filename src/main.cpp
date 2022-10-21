@@ -5,8 +5,8 @@
 #include <Wire.h>
 
 // Вводим имя и пароль точки доступа
-const char* ssid = "MGTS_GPON_1915";
-const char* password = "SDTBWRJK";
+const char* ssid = "SSID_NETWORK";
+const char* password = "PASSWORD";
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
